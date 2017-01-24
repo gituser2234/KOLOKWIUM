@@ -1,4 +1,5 @@
 /* Klasa NumberFactorial */
+/* merge_test=1 */
     public class NumberFactorial {
      
             public static void main(String[] args) {
