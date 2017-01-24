@@ -1,1 +1,1 @@
-Dawid Komisarczuk (5B)
+Dawid Komisarczuk (grupa 5B)
